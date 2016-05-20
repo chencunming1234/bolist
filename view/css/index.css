@@ -1,0 +1,84 @@
+/*导航*/
+body{
+	background: #f5f5f5;
+}
+#main-header{
+	background: #1a86c0;padding: 0 15px 90px 15px;
+}
+#main-header button{
+	border: none;background: #1a86c0;
+}
+#main-header button .icon-bar{
+	background-color: white;
+}
+.navbd{
+	background: #1a86c0;border: none;
+}
+#main-header li a{
+	color: white;
+}
+#main-header li:hover a{
+	color: black;background: #1a86c0;
+}
+.navbar-brand img{
+	width: 100px;height: 21px;
+}
+.sec-head{
+	text-align: center;
+}
+header h2{
+	margin-top: 3em;color: white;font-weight: 300;
+}
+.head-img{
+	margin-top: 2em;width: 60%;
+}
+#main-header .form-group{
+	margin-top: 3em;
+}
+#main-header .input-de{
+	width: 75%;font-size: 16px;border: 1px solid #73C1EA;padding: 6px 12px;
+}
+#main-header .btn-de{
+	width: 21%;float: right;background: #1A86C0;border-color: #73C1EA;color: white;
+}
+
+/*内容*/
+#content{
+	margin-top: 28px;padding: 0 15px;
+}
+.sidebar a{
+	color: #999;
+}
+.sidebar h2{
+	font-size: 0.8em;
+}
+.main-content h2{
+	font-size: 1em;padding-bottom: 7px;border-bottom: 1px solid #d5d5d5;
+}
+.bot{
+	margin:1em 0;overflow: hidden;min-height: 7em;
+}
+.bot h3{
+	font-size: 1.25em;margin-top: 0;margin-bottom: 0.25em;
+}
+.bot .paddleft{
+	padding-left: 0;
+}
+.bot .bot-img{
+	width: 100%;margin-right: 4px;
+}
+.paddleft p{
+	color: #999;margin: 0 0 1em;
+}
+.paddleft img{
+	width: 20px;height: 20px;
+}
+/*底部*/
+footer{margin: 6em 0 2em 0;color: #999;}
+footer a{
+	color: #337ab7;
+}
+footer a:hover{
+	text-decoration: underline;
+	color: #999;
+}
